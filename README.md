@@ -14,6 +14,7 @@ Inorder to dodge through the blocks, the Turtle can move left or right using the
 
 ![Turtis](https://user-images.githubusercontent.com/55662714/140104554-1bd03532-92e7-470a-90a8-badf23fe72e5.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The player is rewarded with a new random Turtle NFT everytime a new checkpoint score is reached by the user. The checkpoint score is atleast 110 more than the previous high score of the player.
 
