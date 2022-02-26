@@ -25,6 +25,8 @@ Higher the score achieved for a new checkpoint, higher the `speed` of the NFT ch
 
 The NFTs are dynamic. Every new Turtle NFT has a unique name, randomized image and a random speed which is ranged according to the score achieved by the user. ERC721 standard is used for implementing the NFT. The symbol the Turtis NFT token is `TRTL`.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Some of the randomly generated Turtles are as follows:
 
 ![Turtis](https://user-images.githubusercontent.com/55662714/140104676-36a49b28-a034-495b-9f18-ff7ed22ae127.png)
