@@ -4,6 +4,8 @@ We created an NFT based game which runs on the `POLYGON` network in the `Ethereu
 
 ![Turtis](https://user-images.githubusercontent.com/55662714/140104440-6cf7ed0d-5b7f-47ba-8b8a-f234504515e1.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## About the project
 
 The game involves a Turtle character who dodges through the platforms coming towards it with increasing speed. The NFT here is the Turtle character. Everytime a row of blocks are dodged by the turtle, <b>10 points</b> are added to the score. The current game is over when the Turtle collides with any of the platforms.
